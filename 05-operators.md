@@ -7,6 +7,7 @@ In this video, we learned about Python operators.
 **Programs in the Video**
 
 - [Arithmetic Operators](#arithmetic-operators)
+- [Arithmetic Operators2](#arithmetic-operators2)
 - [Concatenate Strings](#concatenate-stringst)
 - [Program to Compute Amount After Discount](#program-to-compute-discount)
 - [**Task**: Kilometers to Miles](#programming-task)
@@ -38,6 +39,22 @@ Remainder: %
 Exponent: **
 
 ```
+
+---
+
+## Arithmetic Operators2
+```
+vad
+ds
+va
+sdv
+as
+dv
+asd
+va
+sdv
+```
+---
 
 ## Examples: Arithmetic Operators
 

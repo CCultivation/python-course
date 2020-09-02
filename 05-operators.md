@@ -43,6 +43,7 @@ Exponent: **
 ---
 
 ## Arithmetic Operators2
+#
 ```
 vad
 ds
@@ -90,11 +91,12 @@ print("Remainder is", remainder) # 1
 ---
 ---
 -
-
 -
 -
 -
-
+#
+$
+%^&*()
 ## Using parentheses
 
 We can use parentheses to make code more readable.
